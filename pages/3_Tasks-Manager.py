@@ -201,7 +201,8 @@ if not df.empty:
                         border-radius:10px;
                         margin-bottom:10px;
                         border-left:6px solid #4a6cf7;
-                        font-weight:500;">
+                        font-weight:500;
+                        color:#222">
                         {task["Task"]}
                         </div>
                         """,
