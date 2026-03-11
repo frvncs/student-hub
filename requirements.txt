@@ -4,3 +4,4 @@ numpy
 streamlit-quill
 streamlit-autorefresh
 plotly
+pytz
